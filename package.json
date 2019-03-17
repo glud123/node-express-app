@@ -1,0 +1,14 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "node express mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "glud",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
